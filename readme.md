@@ -1,6 +1,4 @@
-# Nombre del grupo
-
-E-commerce Popular
+# Tienda E-commerce
 
 ## Integrantes
 
